@@ -1,6 +1,10 @@
 # Trabalhos de Conclusão de Curso
 Repositório para armazenamento e disponibilização dos Trabalhos de Conclusão de Curso do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRS Câmpus Sertão.
 ## Egressos do Curso
+### 2023
+- Gustavo Morais Trindade
+- Renan de Souza
+- Taís Antunes
 ### 2022
 - Aline Rezendes Girotto
 - Fabrício Luís Covalesci
