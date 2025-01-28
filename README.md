@@ -18,10 +18,10 @@ Repositório para armazenamento e disponibilização dos Trabalhos de Conclusão
 - Cedemir Pereira [TCC](https://github.com/adsIfrsSertao/cedemir-pereira)
 - Elizandro Gabriel Dalastra [TCC](https://github.com/adsIfrsSertao/elizandro-dalastra)
 - Emerson Leonardo Lazzari Ascari
-- Jean Lucas Pereira [GitHub](https://github.com/jeanjlp?tab=repositories)
-- Nathalie Chimento Sbeghen
+- Jean Lucas Pereira [GitHub](https://github.com/jeanjlp)
+- Nathalie Chimento Sbeghen [TCC](https://github.com/adsIfrsSertao/nathalie-chimento-sbeghen)
 - Rafael Scariot
-- Vinicius Tres
+- Vinicius Tres [GitHub](https://github.com/Vtres)
 - William Gustavo Grosseli
 ### 2020
 - Guilherme Vanin Vieira
