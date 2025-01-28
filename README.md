@@ -8,17 +8,17 @@ Repositório para armazenamento e disponibilização dos Trabalhos de Conclusão
 ### 2023
 - Gustavo Morais Trindade [TCC](https://github.com/adsIfrsSertao/gustavo-morais-trindade)
 - Renan de Souza [TCC](https://github.com/adsIfrsSertao/renan-de-souza)
-- Taís Antunes
+- Taís Antunes [TCC](https://github.com/adsIfrsSertao/tais-antunes)
 ### 2022
 - Aline Rezendes Girotto [TCC](https://github.com/adsIfrsSertao/aline-rezendes-girotto)
-- Fabrício Luís Covalesci
+- Fabrício Luís Covalesci [TCC](https://github.com/adsIfrsSertao/fabricio-luis-covalesci)
 - Júlia Hammes Melo
 - Rafael Rovani Tognon [TCC](https://github.com/adsIfrsSertao/rafael-rovani-tognon)
 ### 2021
-- Cedemir Pereira
-- Elizandro Gabriel Dalastra
+- Cedemir Pereira [TCC](https://github.com/adsIfrsSertao/cedemir-pereira)
+- Elizandro Gabriel Dalastra [TCC](https://github.com/adsIfrsSertao/elizandro-dalastra)
 - Emerson Leonardo Lazzari Ascari
-- Jean Lucas Pereira
+- Jean Lucas Pereira [GitHub](https://github.com/jeanjlp?tab=repositories)
 - Nathalie Chimento Sbeghen
 - Rafael Scariot
 - Vinicius Tres
