@@ -3,7 +3,7 @@ Repositório para armazenamento e disponibilização dos Trabalhos de Conclusão
 ## Egressos do Curso
 ### 2024
 - Eliedson de Souza [TCC](https://github.com/adsIfrsSertao/eliedson-de-souza)
-- Fabrício Kohlrausch
+- Fabrício Kohlrausch [TCC](https://github.com/adsIfrsSertao/fabricio-kohlrausch)
 - Samael Muniz Picoli [TCC](https://github.com/adsIfrsSertao/samael-muniz-picoli)
 ### 2023
 - Gustavo Morais Trindade [TCC](https://github.com/adsIfrsSertao/gustavo-morais-trindade)
