@@ -24,6 +24,6 @@ Repositório para armazenamento e disponibilização dos Trabalhos de Conclusão
 - Vinicius Tres [GitHub](https://github.com/Vtres)
 - William Gustavo Grosseli
 ### 2020
-- Guilherme Vanin Vieira
-- Jonathan Luis Concato
-- Tobias Basso
+- Guilherme Vanin Vieira [TCC](https://github.com/adsIfrsSertao/guilherme-vanin-vieira)
+- Jonathan Luis Concato [TCC](https://github.com/adsIfrsSertao/jonathan-luis-concato)
+- Tobias Basso [TCC](https://github.com/adsIfrsSertao/tobias-basso)
